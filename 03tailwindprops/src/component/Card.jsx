@@ -15,6 +15,7 @@
             <p className="text-gray-400">
               Lorem ipsum dolor sit amet consectetur, adipisicing elit. Distinctio tempora ipsum
               soluta amet corporis accusantium aliquid consectetur eaque!
+         
             </p>
           </div>
           <button
