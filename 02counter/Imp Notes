@@ -1,0 +1,9 @@
+React fibre is an ongoing reimplementation of React's core algorithm.
+It is the 
+The goal of React fiber is to increase its suitability for areas like animation, layout ,gestures. Its headline feature is incremental rendering: the ability to split rendering into chunks and spread it out over multiple frames. 
+Key features include the ability to pause  ,abort,  or reuse work as new update in: The ability to assign priority to different types of updates;and new concurrent primitives.
+
+
+
+----------Reconciliation---------------
+The algorithm React uses to diff one tree with another to determine which parts to be changed 
